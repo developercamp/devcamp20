@@ -8,14 +8,14 @@ So, give us feedback:
 * What you should **STOP** doing: because it isn’t working for some reason!
 * And what you should **CONTINUE** to do: because it’s working just fine!
 
-##Start
+## Start
 
 [_add your feedback here_]
 
-##Stop
+## Stop
 
 [_add your feedback here_]
 
-##Continue
+## Continue
 
 [_add your feedback here_]
