@@ -24,7 +24,7 @@ We prepared a [Document](https://github.com/developercamp/devcamp20/blob/master/
 
 ## … okay, but: when?
 
-The **Developer Camp 2019** will start on **Friday, April 5th 2019**. The location will be the "**Neue Universität Würzburg**".
+The **Developer Camp 2020** will start on **Friday, April 24th 2020**. The location will be the "**Vogel Convention Center Würzburg**".
 
 
 ## Twitterlist
